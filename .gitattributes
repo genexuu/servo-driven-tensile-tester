@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve original serial captures, including CRLF record separators.
+supplement/experiments/baseline/*.csv -text

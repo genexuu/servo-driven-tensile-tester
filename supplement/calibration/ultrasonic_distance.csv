@@ -1,0 +1,8 @@
+reference_distance_mm,measured_distance_cm,residual_cm
+150,14,1
+200,20,0
+250,24,1
+300,29,1
+350,33,2
+400,34,6
+450,35,10
