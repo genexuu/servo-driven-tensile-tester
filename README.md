@@ -29,6 +29,12 @@ The 38-second animation follows the load path from the specimen grips to the loa
 | Assembly animation and prototype demonstration | [Media](media/) |
 | Calibration data, trial recordings and editable sampling sketch | [Supplement](supplement/) |
 
+## Reference tester design
+
+The [supporting information for *Fabrication of an Economical Arduino-Based Uniaxial Tensile Tester*](docs/references/arduino-tensile-tester-supporting-information.pdf) covers the parts list, assembly, wiring and sample clamps.
+
+Compare the [reference clamp model (STL)](models/reference/mechanical-tester-clamps.stl) with the [clamp model archived by Group 9 (STL)](models/clamp.stl).
+
 ## Final experiments
 
 The team tested one latex specimen and one nitrile specimen. Young’s modulus comes from the slope of the elastic region of the stress–strain curve. Ultimate tensile strength is the peak engineering stress. The values below come from Table 1 of the [final experimental report](docs/reports/03-experimental-results.pdf).
