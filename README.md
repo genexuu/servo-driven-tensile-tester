@@ -1,4 +1,6 @@
-# Group 9 Uniaxial Tensiometer
+# Servo-Driven Uniaxial Tensile Tester
+
+ECE 442 · Group 9
 
 An ECE 442 team project for measuring how glove material stretches under load. A servo pulls the specimen through a clamped test fixture. A load cell and HX711 amplifier measure the applied load, an ultrasonic sensor tracks distance, and an Arduino displays readings on an LCD. An ESP8266 running Blynk provides phone control of the servo.
 
