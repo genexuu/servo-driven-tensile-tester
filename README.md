@@ -10,6 +10,14 @@ An ECE 442 team project for measuring how glove material stretches under load. A
 
 The 38-second animation follows the load path from the specimen grips to the load cell, then traces the sensor, display and servo connections. The wiring follows Figure 2 of the [physical design report](docs/reports/02-physical-design.pdf). A pin comparison near the end shows where the figure, report text and archived sketch disagree. The project videos show the mechanical layout but do not resolve the pin assignments.
 
+## Prototype demonstration
+
+[Watch the physical tensiometer in action (32-second MP4 with original audio).](media/tensiometer-prototype-demo.mp4)
+
+### Hardware layout
+
+![Front view of the tensiometer showing the servo and fixed pulley above the frame, the load cell and specimen clamps between the drawer slides, and the control electronics on the right.](media/tensiometer-hardware-layout.png)
+
 ## Repository guide
 
 | To find | Open |
@@ -18,7 +26,7 @@ The 38-second animation follows the load path from the specimen grips to the loa
 | Final slides and project poster | [Presentations](docs/presentations/) |
 | Arduino, ESP-12F and MATLAB code as submitted | [Code listings](docs/code-listings/) |
 | Printable clamp and editable Blender assembly | [Models](models/) |
-| Animation preview and full-resolution video | [Media](media/) |
+| Assembly animation and prototype demonstration | [Media](media/) |
 | Calibration data, trial recordings and editable sampling sketch | [Supplement](supplement/) |
 
 ## Final experiments
